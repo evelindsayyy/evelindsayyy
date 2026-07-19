@@ -10,6 +10,6 @@ CS @ Duke (minor in Machine Learning & AI), building and evaluating LLM systems.
 
 -  **[lyrics_mood_predictor](https://github.com/evelindsayyy/lyrics_mood_predictor)** ([live demo](https://lyricsmoodpredictor-zrtbnhzdwavalcsqriyexb.streamlit.app/)) — fine-tuned DistilBERT for song-lyric mood prediction, served with FastAPI + ONNX, with SHAP explanations and Qdrant vector search over 76k songs.
 -  **[trading-agent-analyzer](https://github.com/evelindsayyy/trading-agent-analyzer)** ([live demo](https://trading-agent-analyzer-jvfbfxva4vb8wv7xmbtdwl.streamlit.app/)) — a multi-agent LLM stock analyzer (Streamlit UI built on the open-source TradingAgents / LangGraph engine) that produces comparative buy/sell/hold rationales.
--  **[ddl_reminder](https://github.com/evelindsayyy/ddl_reminder)** ([live app](https://ddl-reminder.vercel.app/) — login-gated; demo GIF in the repo) — Next.js + Supabase deadline tracker I use daily: natural-language entry, email reminders, Apple Calendar feed, Canvas/Gradescope sync, installable PWA.
+-  **[ddl_reminder](https://github.com/evelindsayyy/ddl_reminder)** ([live app](https://ddl-reminder.vercel.app/)) — login-gated; demo GIF in the repo) — Next.js + Supabase deadline tracker I use daily: natural-language entry, email reminders, Apple Calendar feed, Canvas/Gradescope sync, installable PWA.
 
  [LinkedIn](https://www.linkedin.com/in/luman-z-22198a2a2/) · lz302@duke.edu
