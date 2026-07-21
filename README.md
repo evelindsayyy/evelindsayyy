@@ -1,6 +1,6 @@
 ### Hi, I'm Grace (Luman) Zhan 👋
 
-CS @ Duke (minor in Machine Learning & AI), building and evaluating LLM systems. I like taking an AI feature end to end — building it, proving it works, and improving the model behind it. Targeting **Summer 2027 AI/ML internships**.
+CS @ Duke (minor in Machine Learning & AI), building and evaluating LLM systems. I like taking an AI feature end-to-end — building it, proving it works, and improving the model behind it. Targeting **Summer 2027 AI/ML internships**.
 
  **Currently:** model-evaluation & alignment work at Duke Code+ (LLM-as-judge + execution-based scoring, QLoRA-DPO) and sickle-cell-disease data research at the Duke Global Health Institute.
 
