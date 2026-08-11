@@ -1,15 +1,47 @@
-### Hi, I'm Grace (Luman) Zhan 👋
+# Grace Luman Zhan
 
-CS @ Duke (minor in Machine Learning & AI), building and evaluating LLM systems. I like taking an AI feature end-to-end, building it, proving it works, and improving the model behind it. Targeting **Summer 2027 AI/ML internships**.
+Computer Science at Duke University with a minor in Machine Learning and Artificial Intelligence. I build AI systems end to end, then design the evaluation needed to show where they work, where they fail, and whether their outputs deserve trust.
 
- **Currently:** model-evaluation & alignment work at Duke Code+ Program (LLM-as-judge + execution-based scoring, QLoRA-DPO) and sickle-cell-disease data research at the Duke Global Health Institute.
+I am targeting Summer 2027 AI and machine learning internships.
 
- **Tools I reach for:** Python · PyTorch · Hugging Face (TRL/PEFT) · FastAPI · LangGraph · vLLM/Slurm · Docker · TypeScript/Next.js
+## 1. What I Build
 
-**Featured projects**
+My strongest work sits at the intersection of applied ML, LLM systems, evaluation, and product engineering. I enjoy taking a system from experiment to deployed interface, adding measurable quality gates, and documenting the tradeoffs honestly.
 
--  **[lyrics_mood_predictor](https://github.com/evelindsayyy/lyrics_mood_predictor)** ([live demo](https://lyricsmoodpredictor-zrtbnhzdwavalcsqriyexb.streamlit.app/)): fine-tuned DistilBERT for song-lyric mood prediction, served with FastAPI + ONNX, with SHAP explanations and Qdrant vector search over 76k songs.
--  **[trading-agent-analyzer](https://github.com/evelindsayyy/trading-agent-analyzer)** ([live demo](https://trading-agent-analyzer-jvfbfxva4vb8wv7xmbtdwl.streamlit.app/)): a multi-agent LLM stock analyzer (Streamlit UI built on the open-source TradingAgents / LangGraph engine) that produces comparative buy/sell/hold rationales.
--  **[ddl_reminder](https://github.com/evelindsayyy/ddl_reminder)** ([live app](https://ddl-reminder.vercel.app/)): login-gated; demo GIF in the repo) — Next.js + Supabase deadline tracker I use daily: natural-language entry, email reminders, Apple Calendar feed, Canvas/Gradescope sync, installable PWA.
+Current focus areas include LLM-as-judge methodology, execution-based evaluation, human preference studies, open-weight inference with vLLM and SLURM, and preference alignment with QLoRA and DPO.
 
- [LinkedIn](https://www.linkedin.com/in/luman-z-22198a2a2/) · lz302@duke.edu
+---
+
+## 2. Featured Systems
+
+| Project | What it proves | Stack and evidence |
+|---------|----------------|--------------------|
+| **[AI Model Advisor](https://github.com/evelindsayyy/security-and-qa-for-ai-models)** ([live system](https://model-advisor.colab.duke.edu)) | Production model governance across artifact security, adversarial safety, institutional evaluation, and public benchmarks | Flask, Postgres, Docker, LLM-as-judge, execution scoring, vLLM, SLURM, 1,272 Python tests |
+| **[LyricMood](https://github.com/evelindsayyy/lyrics_mood_predictor)** ([live demo](https://lyricsmoodpredictor-zrtbnhzdwavalcsqriyexb.streamlit.app/)) | Fine-tuned text classification with interpretable predictions and semantic retrieval over 76,000 songs | DistilBERT, ONNX, FastAPI, SHAP, Qdrant, 106 tests |
+| **[Deadline Tracker](https://github.com/evelindsayyy/ddl_reminder)** ([live app](https://ddl-reminder.vercel.app/)) | A production web app built around a real daily workflow, with natural-language entry and university integrations | Next.js, TypeScript, Supabase, Vercel, PWA, 781 tests |
+| **[Trading Agent Analyzer](https://github.com/evelindsayyy/trading-agent-analyzer)** ([live demo](https://trading-agent-analyzer-jvfbfxva4vb8wv7xmbtdwl.streamlit.app/)) | A usable web product around a multi-agent research engine, with durable run history and cost controls | LangGraph, Streamlit, Postgres, Docker, DeepSeek |
+
+---
+
+## 3. Current Work
+
+At Duke Code+, I own major parts of the efficacy and report-card experience for AI Model Advisor. My work includes rubric and execution-based LLM evaluation, a frozen evaluation contract, a six-rater judge validation study, DCC-hosted open-weight inference, cost-versus-performance analysis, and the frontend used to launch and compare runs.
+
+I also contribute to sickle-cell-disease data research at the Duke Global Health Institute.
+
+---
+
+## 4. Technical Toolkit
+
+| Area | Tools |
+|------|-------|
+| ML and alignment | PyTorch, Hugging Face Transformers, TRL, PEFT, QLoRA, DPO, ONNX |
+| LLM systems | LiteLLM, LangGraph, LLM-as-judge, vLLM, SLURM, structured evaluation |
+| Backend and data | Python, FastAPI, Flask, Postgres, Supabase, Qdrant |
+| Product and operations | TypeScript, Next.js, React, Docker, GitHub Actions, Vercel |
+
+---
+
+## 5. Contact
+
+[LinkedIn](https://www.linkedin.com/in/luman-z-22198a2a2/) · [lz302@duke.edu](mailto:lz302@duke.edu)
