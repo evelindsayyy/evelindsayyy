@@ -2,7 +2,7 @@
 
 Computer Science at Duke University with a minor in Machine Learning and Artificial Intelligence. I build AI systems end to end, then design the evaluation needed to show where they work, where they fail, and whether their outputs deserve trust.
 
-I am targeting Summer 2027 AI and machine learning internships.
+I am targeting Summer 2027 AI & machine learning and SDE internships.
 
 ## 1. What I Build
 
