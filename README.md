@@ -1,4 +1,4 @@
-# Grace Luman Zhan
+# Luman (Grace) Zhan
 
 Computer Science at Duke University with a minor in Machine Learning and Artificial Intelligence. I build AI systems end to end, then design the evaluation needed to show where they work, where they fail, and whether their outputs deserve trust.
 
