@@ -1,6 +1,6 @@
 # Luman (Grace) Zhan
 
-Computer Science at Duke University with a minor in Machine Learning and Artificial Intelligence. I build AI systems end to end, then design the evaluation needed to show where they work, where they fail, and whether their outputs deserve trust.
+Computer Science at Duke University, concentrating in Machine Learning and AI and minoring in English. I build AI systems end to end, then design the evaluation needed to show where they work, where they fail, and whether their outputs deserve trust.
 
 I am targeting Summer 2027 AI & machine learning and SDE internships.
 
@@ -44,4 +44,4 @@ I also contribute to sickle-cell-disease data research at the Duke Global Health
 
 ## 5. Contact
 
-[LinkedIn](https://www.linkedin.com/in/luman-z-22198a2a2/) · [lz302@duke.edu](mailto:lz302@duke.edu)
+[LinkedIn](https://www.linkedin.com/in/luman-z-22198a2a2/) · [lz302@duke.edu](mailto:lz302@duke.edu) · [zhanluman0612@gmail.com](mailto:zhanluman0612@gmail.com)
